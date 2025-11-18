@@ -1,0 +1,2 @@
+1.today im created a s3 bucket in aws and host a basic website in the s3 bucket
+2.in azure, i practiced virtual machine scaling set
