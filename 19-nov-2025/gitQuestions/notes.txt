@@ -1,0 +1,19 @@
+What is Git and why is it used?
+
+What is the difference between Git and GitHub?
+
+What is a Git repository?
+
+What is the difference between git add and git commit?
+
+What is a Git branch?
+
+What is git clone used for?
+
+What is the difference between git pull and git push?
+
+What is git merge?
+
+What is a merge conflict?
+
+What is the purpose of a .gitignore file?
